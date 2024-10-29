@@ -43,3 +43,6 @@ def meow(n):
     for _ in range(n):
         print("meow")
 main()
+
+for i in range(3):
+    print("meow")
